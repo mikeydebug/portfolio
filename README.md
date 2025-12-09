@@ -17,7 +17,7 @@
 
 ## 🎯 About
 
-A modern, responsive portfolio showcasing my journey as a developer at **IIIT Allahabad**. This project represents my passion for building elegant, scalable solutions and demonstrates my proficiency in cutting-edge web technologies.
+A modern, responsive portfolio showcasing my journey as a developer at **IIIT Raichur**. This project represents my passion for building elegant, scalable solutions and demonstrates my proficiency in cutting-edge web technologies.
 
 ### ✨ Highlights
 
